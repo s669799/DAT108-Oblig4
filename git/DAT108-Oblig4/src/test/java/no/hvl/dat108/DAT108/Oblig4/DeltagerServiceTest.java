@@ -82,10 +82,6 @@ class DeltagerServiceTest {
 //		assertFalse(resultat.contains("88888888"));
 	}
 
-	@Test
-	public void slettDeltagerTest() {
-
-	}
 
 	@Test
 	public void finnDeltagerMedIdTest() {
